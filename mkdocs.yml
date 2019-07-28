@@ -1,0 +1,12 @@
+site_name: Pyppeteer 中文文档
+
+theme: readthedocs
+
+nav:
+  - '快速开始': 'index.md'
+  - '命令': 'commands.md'
+  - '环境变量': 'env.md'
+  - 'Launcher': 'launcher.md'
+  - 'Browser': 'browser.md'
+  - 'Page': 'page.md'
+  - 'Request': 'request.md'
